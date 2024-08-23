@@ -16,7 +16,7 @@ public class SampleTestclass extends ProjectMethods {
 		testDescription="Automating Flipkart Application";
 		testNodes="Base";
 		category="Smoke";
-		authors="Mymoon";
+		authors="Mymoon bEEVI";
 		browserName="chrome";
 		dataSheetName="testdata";
 	} 
